@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ordepPedroGabriel
+- 👀 I’m interested in software development
